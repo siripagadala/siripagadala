@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siri Pagadala
-- 💞️ I’m interested in ML, Data Science, Web Dev
+- 💞️ I’m interested in ML, Data Science and Web Dev
 - 🌱 I’m currently working with C and Python
 
 <!---
