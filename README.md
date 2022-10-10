@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siripagadala
+- 👋 Hi, I’m Siri Pagadala
 - 💞️ I’m interested in ML and Data Science
 - 🌱 I’m currently working with C and Python
 
