@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siripagadala
-- 👀 I’m interested in ML and Data Science
+- 💞️ I’m interested in ML and Data Science
 - 🌱 I’m currently working with C and Python
 
 <!---
