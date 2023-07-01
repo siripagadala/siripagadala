@@ -5,7 +5,7 @@
 
 - 🦦 I’m currently working on **getting through this cs degree.**
 
-- 🌱 I’m currently learning **how to make code do things on it own.**
+- 🌱 I’m currently learning **how to make code do things on its own.**
 
 - 🌸 I’m looking to collaborate on **anything that can keep me interested for more than 7 secs.**
 
