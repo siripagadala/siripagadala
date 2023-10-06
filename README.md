@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siri</h1>
-<h3 align="center">I'm a lil bit into ml and web dev (i'm 5'7)</h3>
+<h3 align="center">I'm a lil bit into ml and web dev</h3>
 <img align="right" alt="anime" width="400" src="https://www.sartle.com/sites/default/files/images/blog/giphy_216.gif">
 
 
