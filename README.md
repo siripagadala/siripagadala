@@ -2,8 +2,6 @@
 <h3 align="center">I'm a lil bit into ml and web dev</h3>
 <img align="right" alt="anime" width="400" src="https://www.sartle.com/sites/default/files/images/blog/giphy_216.gif">
 
-<img align="left" src="https://leetcode.card.workers.dev/?username=otakuyakisoba&theme=dark" alt="LeetCode Stats"/ height ="50" width ="70">
-
 
 - 🦦 I’m currently working on **getting through this cs degree.**
 
